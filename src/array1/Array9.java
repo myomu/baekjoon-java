@@ -29,8 +29,11 @@ public class Array9 {
             int start = Integer.parseInt(st.nextToken()) - 1;
             int end = Integer.parseInt(st.nextToken()) - 1;
 
-            for (int k = start; k <= (start+end)/2; k++) {
-                arr[k] = arr[arr.length-1-k];
+            for (int pre = start; pre <= (start+end)/2; pre++) {
+                int temp = arr[pre];
+                int post = (end + start) - pre;
+                arr[pre] = arr[post];
+                arr[post] = temp;
             }
         }
 
