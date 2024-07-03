@@ -8,8 +8,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 1620번
- * 나는야 포켓몬 마스터 이다솜
+ * 10816번
+ * 숫자 카드2
  */
 public class SetAndMap5 {
     public static void main(String[] args) throws IOException {
