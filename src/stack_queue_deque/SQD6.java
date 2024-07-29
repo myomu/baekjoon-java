@@ -41,7 +41,6 @@ public class SQD6 {
                     sb.append(queue.isEmpty() ? -1 : backNumber).append("\n");
                     break;
             }
-            queue.
         }
 
         System.out.print(sb.toString());
