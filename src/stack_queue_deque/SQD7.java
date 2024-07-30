@@ -8,7 +8,7 @@ import java.util.Queue;
 
 /**
  * 2164번
- * 카드
+ * 카드 2
  */
 public class SQD7 {
     public static void main(String[] args) throws IOException {
