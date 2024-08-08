@@ -8,8 +8,8 @@ import java.util.Set;
 
 
 /**
- * 1037번
- * 약수
+ * 25192번
+ * 인사성 밝은 곰곰이
  */
 public class Deepen2 {
 
