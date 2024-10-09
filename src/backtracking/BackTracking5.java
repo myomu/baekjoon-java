@@ -3,8 +3,8 @@ package backtracking;
 import java.io.*;
 
 /**
- * 15652번
- * N과 M (4)
+ * 9663번
+ * N-Queen
  */
 public class BackTracking5 {
 
